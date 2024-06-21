@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there, I'm Emmanuel 👋
+(Although my nickname is TJ)
 
-<!--
-**b0techt/b0techt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👀 I’m interested in Java Programming
+- 🌱 I’m currently learning Batch scripting, C and Python
+- 💞️ I’m looking to collaborate on anything involving cyber security and software developing
+- 📫 How to reach me commenting on my repl.it code --> repl.it/@btecht
 
-Here are some ideas to get you started:
+## Current Project
+Currently working on an event management and creation program in Java.
+Console based interactive Web Scraper in Java (TBD), to be run in a Java IDE.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Past Projects
+Simple Bank Account Simulator, created during my school years in Sixth Form
+Mulitple group univserity coursework projects some listed below:
+* Cryptogram Game (Made in Java)
+* Visual Distance Guesser game (Made in Java)
+* Exericse Encouragement App (Made in ReactNative)
