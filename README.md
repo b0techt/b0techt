@@ -1,18 +1,30 @@
 ## Hi there, I'm Emmanuel 👋
 (Although my nickname is TJ)
 
-- 👀 I’m interested in Java Programming
-- 🌱 I’m currently learning Batch scripting, C and Python
-- 💞️ I’m looking to collaborate on anything involving cyber security and software developing
-- 📫 How to reach me commenting on my repl.it code --> repl.it/@btecht
+- 👀 I’m interested in Java programming.
+- 🌱 I’m currently learning batch scripting, C, and Python.
+- 💞️ I’m looking to collaborate on anything involving cybersecurity and software development.
+- 📫 How to reach me: Comment on my repl.it code --> [Btecht](repl.it/@btecht)
 
-## Current Project
-Currently working on an event management and creation program in Java.
-Console based interactive Web Scraper in Java (TBD), to be run in a Java IDE.
+## Current Projects
+1. Currently working on an [event management and creation](https://github.com/b0techt/Event-Creation-Management) program in Java.
+2. Console-based interactive web scraper in Java (TBD), to be run in a Java IDE.
 
 ## Past Projects
-Simple Bank Account Simulator, created during my school years in Sixth Form
-Mulitple group univserity coursework projects some listed below:
-* Cryptogram Game (Made in Java)
-* Visual Distance Guesser game (Made in Java)
-* Exericse Encouragement App (Made in ReactNative)
+1. [Simple Bank Account Simulator.](https://github.com/b0techt/casualVJB) Created during my school years in sixth form.
+2. Multiple group university coursework projects, some listed below:
+   * [Cryptogram Game](https://github.com/b0techt/Cryptograms-Game) (made in Java)
+   * Visual distance guesser game (made in Java)
+   * Exercise encouragement app (made in ReactNative)
+   * [Simple Shell](https://github.com/b0techt/Simple-Shell)
+
+## About Me
+1. Sports enthusiast:
+    * love all forms of sports
+    * participates in football and basketball games
+2. Avid learner in languages and culture:
+    * currently learning spanish and spanish speaking cultures
+    * future languages to learn will be French, Brazilian Portugese and Japanese
+3. Tech enthusiast:
+    * enjoy reading about new technology
+    * determined to learn and use more programming languages 
