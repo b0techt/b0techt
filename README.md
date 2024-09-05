@@ -2,7 +2,7 @@
 (Although my nickname is TJ)
 
 - 👀 I’m interested in Java programming.
-- 🌱 I’m currently learning batch scripting, C, and Python.
+- 🌱 I’m currently learning Batch scripting.
 - 💞️ I’m looking to collaborate on anything involving cybersecurity and software development.
 - 📫 How to reach me: Comment on my repl.it code --> [Btecht](repl.it/@btecht)
 
