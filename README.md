@@ -8,7 +8,6 @@
 
 ## Current Projects
 1. Currently working on an [event management and creation](https://github.com/b0techt/Event-Creation-Management) program in Java.
-2. Console-based interactive web scraper in Java (TBD), to be run in a Java IDE.
 
 ## Past Projects
 1. [Simple Bank Account Simulator.](https://github.com/b0techt/casualVJB) Created during my school years in sixth form.
