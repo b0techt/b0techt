@@ -15,7 +15,7 @@
    * [Cryptogram Game](https://github.com/b0techt/Cryptograms-Game) (made in Java)
    * Visual distance guesser game (made in Java)
    * Exercise encouragement app (made in ReactNative)
-   * [Simple Shell](https://github.com/b0techt/Simple-Shell)
+   * [Simple Shell](https://github.com/b0techt/Simple-Shell) (made in C)
 
 ## About Me
 1. Sports enthusiast:
