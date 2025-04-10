@@ -11,7 +11,7 @@
 
 ## Past Projects
 1. [Simple Bank Account Simulator.](https://github.com/b0techt/casualVJB) Created during my school years in sixth form.
-2. Currently working on an [event management and creation](https://github.com/b0techt/Event-Creation-Management) program in Java.
+2. [Event Management and Creation](https://github.com/b0techt/Event-Creation-Management) program in Java.
 3. Multiple group university coursework projects, some listed below:
    * [Cryptogram Game](https://github.com/b0techt/Cryptograms-Game) (made in Java)
    * Visual distance guesser game (made in Java)
